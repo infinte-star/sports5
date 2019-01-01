@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">SportClub</string>
+    <string name="important_info">Important Information</string>
+    <string name="info_content">Seminar On Ripped Diet by you\n today at 3:20pm</string>
+    <string name="title_activity_navigation">navigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="first_title">Upcomming Exam - 2nd Mid</string>
+    <string name="exam_items">
+        4th April, Tuesday - EDC\n
+        5th April, Wednesday - WT\n
+        6th April, Thursday - ES\n
+        7th April, Friday - DOS\n
+        8th April, Saturday - AI\n
+        9th April, Monday - OS\n
+        10th April, Tuesday - CA
+    </string>
+    <string name="second_title">Subjects info:</string>
+    <string name="item_info">
+        AI - Artificial Intelligence\n
+        CA - Computer Architecture\n
+        DOS - Distributed Operating Systems\n
+        EDC - Electronic Devices and Circuits\n
+        ES - Embedded Systems\n
+        OS - Operating Systems\n
+        WT - Web Technologies\n
+        LIB - Library Time\n
+        PLAY - Sports Time\n
+    </string>
+
+    <string name="no_favorite">还没有收藏</string>
+
+    <!-- This is for Login -->
+    <string name="welcome_text">Sports Club</string>
+    <string name="username_input_hint">Username</string>
+    <string name="password_input_hint">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="qq_login">QQ Login</string>
+    <string name="register">Register now</string>
+
+    <!-- This is for Register -->
+    <string name="register_text">Sign Up</string>
+    <string name="signup">Sign up</string>
+    <string name="ensure_password_input_hint">Confirm</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="loginRightNow">Have a account,login in</string>
+
+    <!-- This is for bottom navigation -->
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">推荐</string>
+    <string name="title_coaches">教练</string>
+    <string name="title_find">发现</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="noAppointment">还没有预约</string>
+    <string name="gotoAppointment">发现精彩</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- This is for left navigation-->
+    <string name="intro">School of Software Engineering</string>
+    <string name="mail">info@edu.bjtu.cn</string>
+    <!-- This is for left map-->
+    <string name="Input">Input you want to find</string>
+    <string name="start">Input Start</string>
+    <string name="end">Input  End</string>
+    <string name="search">Search</string>
+    <string name="route">Route</string>
+    <string name="switches">Switch</string>
+    <string name="mapmode">Map mode</string>
+    <string name="hotmap">hotmap</string>
+</resources>
